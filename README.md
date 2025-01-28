@@ -1,5 +1,3 @@
-# Zeotap
-
 # Report
 The Insights from the analysis of the data given are: 
 1. Customer Value Distribution & Potential 
