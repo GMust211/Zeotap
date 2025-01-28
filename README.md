@@ -29,30 +29,30 @@ reference point for understanding successful customer attributes and behaviors.
 
 # Files Uploaded:
 
-Transactions.csv:
-Columns:
-TransactionID
-CustomerID
-ProductID
-TransactionDate
-Quantity
-TotalValue
-Price
+Transactions.csv:<br>
+Columns:<br>
+TransactionID<br>
+CustomerID<br>
+ProductID<br>
+TransactionDate<br>
+Quantity<br>
+TotalValue<br>
+Price<br>
 
-Products.csv:
-Columns:
-ProductID	
-ProductName
-Category
-Price
+Products.csv:<br>
+Columns:<br>
+ProductID	<br>
+ProductName<br>
+Category<br>
+Price<br>
 
-Clustering.csv
-Customers.csv
-Lookalike.csv
+Clustering.csv<br>
+Customers.csv<br>
+Lookalike.csv<br>
 
-#ipynbn files
-Lookalike.ipynb
-EDA.ipynb
+# ipynb files
+Lookalike.ipynb<br>
+EDA.ipynb<br>
 Clustering.ipynb
 
 Report.pdf
