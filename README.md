@@ -31,19 +31,19 @@ reference point for understanding successful customer attributes and behaviors.
 
 Transactions.csv:<br>
 Columns:<br>
-TransactionID<br>
-CustomerID<br>
-ProductID<br>
-TransactionDate<br>
-Quantity<br>
-TotalValue<br>
+TransactionID
+CustomerID
+ProductID
+TransactionDate
+Quantity
+TotalValue
 Price<br>
 
 Products.csv:<br>
 Columns:<br>
-ProductID	<br>
-ProductName<br>
-Category<br>
+ProductID	
+ProductName
+Category
 Price<br>
 
 Clustering.csv<br>
