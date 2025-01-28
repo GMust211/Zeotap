@@ -29,7 +29,6 @@ reference point for understanding successful customer attributes and behaviors.
 
 # Files Uploaded:
 
-# CSV FILES:
 Transactions.csv:
 Columns:
 TransactionID
